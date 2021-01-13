@@ -1,0 +1,50 @@
+
+      .height {
+        min-height: 100vh;
+      }
+     :target::before {
+      content: "";
+      display: block;
+      height: 25vh; /* fixed header height*/
+      margin: -25vh 0 0; /* negative fixed header height */
+    }
+    @media only screen and (min-width: 480px) {
+    
+      
+    .full {
+ 
+      height: 100%
+      }
+      .heightLarger {min-height: 200vh}
+    
+      
+  
+  
+      }
+      
+      @media only screen and (max-width: 480px) {
+        .padding-right {padding-right: 11vw}
+        }
+  
+    .background {background-color:hsl(0, 0%, 4%);
+        overflow: hidden;
+        background-size: cover;
+        background-position: center;}
+  
+  
+  .padding {padding-top: 40vh}
+  .padding1 {padding-top: 30vh;}
+  .padding2 {padding-top: 45vh; }
+  
+  .align {vertical-align: middle; display: inline-block}
+  
+  .position {position: fixed}
+  .position1{position: fixed; padding-left: 20%}
+  .position2{position: fixed; padding-left: 50vw}
+  .position3{position: fixed; padding-left: 80vw}
+  
+  .front{ z-index: 2 }
+  .second {z-index: 1}
+  
+
+   
