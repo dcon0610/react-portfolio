@@ -11,10 +11,14 @@ function About () {
     <p className="has-text-white is-size-1 is-bold ">About
     </p>
     <section className="is-size-4">
-      <p> I am a student software engineer who is also working at Lumient, a small software engineering company in Adelaide. 
-        I have had exposure to writing javascript using Vue and using python to create the API's on the back end.
+      <p> I am a software engineer working at Lumient, a small software engineering company in Adelaide. 
+        My first project was a python/Vue.js fullstack project dealing with sorting and graphing data in python to be displayed in a Vue front end.
       </p>  
       <br />
+      <p> Currently, I am working on a C# .NET back end, creating API's for display of job management information on a front end. I am using the Entity framework ORM and LINQ to query 
+      the database (Microsoft SQL server), and ASP.NET to set up the API's. 
+      </p> 
+        
       <p>The course has covered HTML/CSS, javascript, API's, node.js/express/handlebars, mysql, Mongodb, and React. These skills along with my work have given me a good foundation in writing fullstack web applications
       </p>
       <br />
