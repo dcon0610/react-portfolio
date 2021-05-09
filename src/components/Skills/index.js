@@ -17,23 +17,19 @@ function Skills () {
           </li>
           <li>CSS
           </li>
-          <li>Javascript
+          <li>Javascript - Vue, React
           </li>
           <li>Jquery
           </li>
-          <li>Vue.js
-          </li>
-          <li>react.js
+          <li>C# .NET, Entity Framework, ASP.NET, LINQ
           </li>
           <li>Node.js
           </li>
           <li>Python/flask (Backend applications)
           </li>
-          <li>PostgreSQL
+          <li>SQL - PostgreSQL, MySQL, Microsoft SQL Server
           </li>
-          <li>Mysql
-          </li>
-          <li>Nosql
+          <li>NoSQL - Mongodb
           </li>
         </ul>
       </section>
